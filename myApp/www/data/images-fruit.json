@@ -1,0 +1,19 @@
+{
+    "images": [
+        {
+            "id": "bowl of fruit",
+            "src": "http://thescienceofeating.com/wp-content/uploads/2012/06/Book-Berries-Antioxidants.jpg",
+            "text": "Can I please have a snack?"
+        },
+        {
+            "id": "ice cream",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIPyLs6L4xbcWl-dHPj-WujeYm1pTVnYMuC0xyTz6FAsWvE4-UHA",
+            "text": "Can I please have some ice cream?"
+        },
+        {
+            "id": "burger and fries",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxRyaII-08gyKi9-lqVqq6YOuIF6Y4WSyJOcvWBm09iowWbY2C4Q",
+            "text": "Let's eat please, I'm hungry."
+        }
+    ]
+}

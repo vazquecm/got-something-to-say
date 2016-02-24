@@ -1,0 +1,28 @@
+<!--this partial allows the images from the JSON data file to be injected into the DOM, chevron arrows allow user to go forward/backward to view image choices -->
+
+
+<!-- arrows allowing the user to go back to previous page -->
+<div class="container text-center">
+  <div class="row">
+    <div class="left col-md-1 pull-left">
+      <a href="#/images/splash"><img class="chevron chevron-left" src="http://alexoliveira.me/Hawaii/images/chevron-left.png" /></a>
+    </div>
+
+
+<!-- adding the images from json files -->
+    <div class="col-md-offset-2 col-md-3 " >
+      <ul rn-carousel rn-carousel-control rn-carousel-index="carouselIndex">
+        <li ng-repeat="image in img">
+            <img id="choices" ng-src="{{ image.src }}" width="600" height="400" ng-dblclick="nephewRequest(image)" />
+            <p id="choices">{{ image.text }}</p>
+        </li>
+      </ul>
+    </div>
+
+
+<!-- arrows allowing the user to go forward to next choices-->
+    <div class="right col-md-1 pull-right">
+      <a href="#/images/basketball"><img class="chevron chevron-right" src="http://alexoliveira.me/Hawaii/images/chevron-right.png" /></a>
+    </div>
+  </div>
+ </div>

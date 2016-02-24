@@ -1,0 +1,19 @@
+{
+    "images": [
+        {
+            "id": "books",
+            "src": "http://pridelearningcenter.com/wp-content/uploads/Dr.-Seuss.jpg",
+            "text": "Let's read a story."
+        },
+        {
+            "id": "bathroom",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUjMiSMoaVXwNP99ul6pTNyw-KQ2ACggFZlRv8k1fNOldo-sTs",
+            "text": "I really have to go to the bathroom."
+        },
+        {
+            "id": "despicable me movie",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJY3R4coBrufVL-f4RtR6gxzNFhIRHXniU37KzJ-jWRmpbm1B",
+            "text": "Let's watch a movie."
+        }
+    ]
+}
