@@ -1,9 +1,8 @@
-# refactored-capstone-slideshow
+#got-something-to-say
 
-##Attempting to use Ionic Framework with Front-end Capstone - personal project
+##Changing over to more mobile (phone/tablet) friendly usage.
 
 ##Technologies Used:
-
 1. Angularjs
 2. Angular-touch
 3. Angular-carousel
